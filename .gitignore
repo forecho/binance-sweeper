@@ -12,3 +12,4 @@ __pycache__/
 *.log
 
 .env
+.dust_conversion_cache.json
